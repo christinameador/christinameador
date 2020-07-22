@@ -9,4 +9,10 @@
 ![image](https://www.softexia.com/wp-content/uploads/2017/04/Java-logo.png)
 ![image](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico)
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=christinameador&show_icons=true&title_color=fff&icon_color=630021&text_color=000&bg_color=ff7700)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="s">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=christinameador&show_icons=true)" />
+</a>
+<a href="">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christinameador" />
+</a>
