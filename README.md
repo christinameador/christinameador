@@ -10,7 +10,7 @@
 ![image](https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico)
 
 
-<a href="s">
+<a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=christinameador&show_icons=true)" />
 </a>
 <a href="">
